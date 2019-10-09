@@ -1,2 +1,5 @@
 pika
 snow
+show
+foss
+enjoy
